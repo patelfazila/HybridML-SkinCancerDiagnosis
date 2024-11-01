@@ -25,7 +25,9 @@ Batching images for efficient processing
 Shuffling data for unbiased training
 
 _Feature Engineering:_
+
 Extracting relevant features using VGG16
+
 Visualizing features using t-SNE and PCA
 
 _Model Selection and Implementation:_
