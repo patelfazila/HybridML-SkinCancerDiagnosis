@@ -8,8 +8,7 @@ Skin Cancer: Malignant vs. Benign dataset
 3,600 images (1,800 benign, 1,800 malignant)
 80/20 train-test split
 
-**Methodology:
-**
+__Methodology:__
 Data Preprocessing:
 Resizing images to 224x224 pixels
 Normalizing pixel values to 0-1 range
