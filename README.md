@@ -1,4 +1,4 @@
-___Project Title: Hybrid Machine Learning Model for Cancer Diagnosis___
+___A Hybrid Machine Learning Approach for Improved Skin Cancer Diagnosis Using CNN, SVM, and Gradient Boosting___
 
 __Overview:__
 
