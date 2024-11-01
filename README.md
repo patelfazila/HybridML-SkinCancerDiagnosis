@@ -14,7 +14,7 @@ Skin Cancer: Malignant vs. Benign dataset
 
 __Methodology:__
 
-_Data Preprocessing:_
+__Data Preprocessing:__
 
 Resizing images to 224x224 pixels
 
@@ -24,13 +24,13 @@ Batching images for efficient processing
 
 Shuffling data for unbiased training
 
-_Feature Engineering:_
+__Feature Engineering:__
 
 Extracting relevant features using VGG16
 
 Visualizing features using t-SNE and PCA
 
-_Model Selection and Implementation:_
+__Model Selection and Implementation:__
 
 Hybrid model combining CNN, SVM, and Gradient Boosting
 
@@ -38,7 +38,7 @@ Python and Scikit-Learn for implementation
 
 Hyperparameter tuning for optimal performance
 
-_Evaluation:_
+__Evaluation:__
 
 Accuracy, Precision, Recall, F1-score, and Specificity metrics
 
