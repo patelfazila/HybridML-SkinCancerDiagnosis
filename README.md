@@ -17,8 +17,11 @@ __Methodology:__
 Data Preprocessing:
 
 Resizing images to 224x224 pixels
+
 Normalizing pixel values to 0-1 range
+
 Batching images for efficient processing
+
 Shuffling data for unbiased training
 
 Feature Engineering:
@@ -26,22 +29,35 @@ Extracting relevant features using VGG16
 Visualizing features using t-SNE and PCA
 
 Model Selection and Implementation:
+
 Hybrid model combining CNN, SVM, and Gradient Boosting
+
 Python and Scikit-Learn for implementation
+
 Hyperparameter tuning for optimal performance
 
 Evaluation:
+
 Accuracy, Precision, Recall, F1-score, and Specificity metrics
+
 Confusion matrices for visualization
 
 __Results:__
+
 The hybrid model achieved an accuracy of 84%, outperforming individual models.
+
 The model demonstrated strong performance in precision, recall, F1-score, and specificity.
+
 The hybrid approach offers a promising avenue for improved cancer diagnosis.
 
 __Future Work:__
+
 Explore larger and more diverse datasets
+
 Incorporate additional data sources (molecular, environmental)
+
 Optimize model performance through hyperparameter tuning and architecture exploration
+
 Enhance model interpretability
+
 Seamless integration into clinical workflows
