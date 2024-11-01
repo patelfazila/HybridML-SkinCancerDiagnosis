@@ -4,8 +4,11 @@ __Overview:__
 This project aims to develop a robust hybrid machine learning model for accurate cancer diagnosis. The model combines the strengths of Convolutional Neural Networks (CNNs), Support Vector Machines (SVMs), and Gradient Boosting to achieve superior performance compared to individual models.
 
 __Dataset:__
+
 Skin Cancer: Malignant vs. Benign dataset
+
 3,600 images (1,800 benign, 1,800 malignant)
+
 80/20 train-test split
 
 __Methodology:__
