@@ -1,6 +1,7 @@
 __Project Title: Hybrid Machine Learning Model for Cancer Diagnosis__
 
 __Overview:__
+
 This project aims to develop a robust hybrid machine learning model for accurate cancer diagnosis. The model combines the strengths of Convolutional Neural Networks (CNNs), Support Vector Machines (SVMs), and Gradient Boosting to achieve superior performance compared to individual models.
 
 __Dataset:__
