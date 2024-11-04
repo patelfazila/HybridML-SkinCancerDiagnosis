@@ -12,6 +12,8 @@ Skin Cancer: Malignant vs. Benign dataset
 
 80/20 train-test split
 
+Dataset Link:- https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign
+
 __Methodology:__
 
 __Data Preprocessing:__
